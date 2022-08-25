@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor França</h1>
-<h3 align="center">Software developer, acting as Site Reliability Engineer in the Madeira Madeira SRE team.</h3>
+<h3 align="center">Software developer, acting as Site Reliability Engineer in the Madeira Madeira SRE team.
+My hobbies involve skateboarding, judo, watching documentaries, playing tabletop roleplaying games, Counter strike and reading books.
+I am driven by curiosity and evolve as far as life allows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archaic10&label=Profile%20views&color=0e75b6&style=flat" alt="archaic10" /> </p>
 
