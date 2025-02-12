@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vitor França</h1>
 <h3>I am a Backend developer with over 5 years of experience.
 
-I started my career as a PHP developer, developing systems and maintaining them. I was part of the development and implementation of systems in Laravel and Yii framework.
+I started my career as a PHP developer, developing and maintaining systems. I was involved in the development and implementation of systems using the Laravel and Yii frameworks.
 
-At the beginning of my journey, I acquired a certain pleasure in solving problems related to the functioning of systems. For me they were puzzles, which I always made a point of involving myself in - like an investigation game if I may say so. This is how I solved a performance problem in a system caused by poor database structuring.
+At the beginning of my journey, I acquired a certain pleasure in solving problems related to the functioning of systems. For me, they were puzzles, and I always made a point of getting involved - like an investigation game, if I may say so. In fact, that was how I solved a performance problem in a system caused by a poorly structured database.
 
-After my small introduction to the world of development, I worked as a Java developer, where I acquired a great passion for the language, participating in teams that worked with the Structs and Spring Boot frameworks.
+After my brief introduction to the development universe, I worked as a Java developer, where I acquired a great passion for the language, participating in teams that worked with the Structs and Spring Boot frameworks.
 
-In 2021 I was invited to work as an SRE (Site Reliability Engineer). Experience that in a short time managed to become one of the best experiences in the professional aspect. Because the challenge was a little bigger: I would need to combine my investigative curiosity, with programming and standardization techniques, using monitoring tools such as New Relic, Grafana, Cloudwatch. In addition to preparing Postmortem and RFC (Request For Comments). I was also involved in manual process automation, GMUD (Change Management), Release Note, and the development of custom GitHub actions.
+In 2021, I was invited to work as an SRE (Site Reliability Engineer). An experience that quickly became one of the best experiences in terms of my professional life. The challenge was a bit bigger: I would need to combine my investigative curiosity with programming and standardization techniques, using monitoring tools such as New Relic, Grafana, and Cloudwatch. In addition to writing Postmortems and RFCs (Request For Comments). I also got involved in automating manual processes, GMUD (Change Management), Release Notes, and developing custom GitHub actions.
 
-I performed maintenance on microservices in Node, PHP and Python, in addition to systems with event-driven architecture patterns, API Gateway provisioning using the kong tool.
+I performed maintenance on microservices in Node, PHP, and Python, as well as systems with event-oriented architecture standards, and provisioning API Gateways using the Kong tool.
 
-Finally, more than two years passed and I felt the need to learn more, I moved to the DevOps team, where I was able to have contact with the infrastructure created during the implementation of the systems, using Terraform (infrastructure as code), Spacelift and AWS technologies .</h3>
+Finally, more than two years passed and I felt the need to learn more. I moved to DevOps, where I was able to get in touch with the infrastructure created during system deployment, using Terraform (infrastructure as code), Spacelift, and AWS technologies.
+
+I am currently involved in the development and maintenance of web applications using Laravel 8, PHP 7, Zend Framework 2 and React, in addition to managing the AWS infrastructure, covering services such as EC2, S3, MongoDB, CodeDeploy and CodePipeline. I also work on queries and maintenance of MySQL databases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archaic10&label=Profile%20views&color=0e75b6&style=flat" alt="archaic10" /> </p>
 
